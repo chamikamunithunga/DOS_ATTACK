@@ -22,3 +22,8 @@ Legal Disclaimer: This script is for educational purposes only. Do not use it ag
 Controlled Environment: It is recommended to run this script in a controlled environment, such as a local server, to avoid unintended consequences.
 
 Responsibility: The author is not responsible for any misuse of this script. Use at your own risk.
+
+# Network Traffic Generator
+-----------------------------
+
+This program is a simple network traffic sniffer that captures packets transmitted over the network for a specified website URL using Python's scapy library. It helps in monitoring network activity and can be useful for educational purposes, network diagnostics, or security analysis.

@@ -26,4 +26,8 @@ Responsibility: The author is not responsible for any misuse of this script. Use
 # Network Traffic Generator
 -----------------------------
 
+![SPVQOoGeJY3dccYNlH3zbMswiOvoBjda](https://github.com/user-attachments/assets/2957c241-aad2-4ee7-b09e-5ef29daa4657)
+
+
+
 This program is a simple network traffic sniffer that captures packets transmitted over the network for a specified website URL using Python's scapy library. It helps in monitoring network activity and can be useful for educational purposes, network diagnostics, or security analysis.
